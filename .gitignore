@@ -1,0 +1,30 @@
+# Build outputs
+/bin/
+/obj/
+/publish/
+
+# IDE
+.vs/
+*.user
+*.userosscache
+*.sln.iml
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+/appsettings.Development.json
+
+# NuGet
+.nuget/
+packages/
+
+# Misc
+*.cache
+*.orig
+*~
+
+# important
+!*.sln
+!*.csproj   
+!appsettings.json
