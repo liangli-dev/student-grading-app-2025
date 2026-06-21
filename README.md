@@ -84,3 +84,20 @@ Projet ASP.NET Core pour la gestion des élèves, professeurs, matières et note
 
 - Le projet utilise `EnsureCreated()` pour créer la base automatiquement au premier lancement.
 - Il n’est pas nécessaire d’exécuter `dotnet ef database update`, sauf si vous souhaitez modifier la structure de la base.
+
+## Home Page
+
+![Home](images/home.png)
+
+## Liste d'étudiants Page
+
+![Students](images/list-stud.png)
+
+
+## Liste de professeurs Page
+
+![Teachers](images/list-prof.png)
+
+## Liste de matières Page
+
+![Teachers](images/list-mat.png)
